@@ -1,0 +1,36 @@
+:root{
+--f7-theme-color:#ffff;
+--f7-navbar-bg-color: #f5821f; /*navbar*/
+--f7-navbar-link-color:#fff;
+--f7-navbar-text-color:#fff;
+--f7-bars-bg-color:#f5821f;/*toolbar*/
+--f7-block-margin-vertical:20px;
+--f7-card-footer-border-color:transparent;
+}
+
+.navbar-inner {
+background-color:#E11383;
+
+}
+
+
+#info-panel{
+background-color:#F5821F;
+color: #fff;
+padding: 40px 30px;
+}
+.panel i{
+color: #e11383;
+}
+.panel .list{
+font-size: 14px;
+}
+.img-fluid{
+max-width: 100%;
+display: block;
+}
+
+hr{
+border:1px solid #eee;
+margin: 20px 0;
+}
